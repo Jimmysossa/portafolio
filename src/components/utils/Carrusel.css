@@ -1,0 +1,25 @@
+.hard_skills {
+    position: relative;
+    height: 65%;
+    width: 100%;
+}
+.hard_skills button {
+    position: absolute;
+    top: 50%;
+    background-color: var(--var--colorhead);
+    width: 25px;
+    aspect-ratio: 1;
+    border-radius: 50%;
+}
+.slider_skills {
+    height: 90%;
+    display: flex;
+    justify-content: center;
+}
+
+.btn_prev {
+    left: 1%;
+}
+.btn_next {
+    right: 1%;
+}
